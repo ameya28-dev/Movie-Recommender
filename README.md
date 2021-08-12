@@ -1,2 +1,2 @@
 # Movie-Recommender
-Recommends Mvie
+Recommends Movie
